@@ -26,4 +26,4 @@ The analysis confirms that:
 ## How to Run
 1. Clone this repository:
    ```bash
-   git clone https://github.com/TadeoBA/music-listening-preferences.git
+  (https://github.com/Jeduardocastel/-Music-Listening-Preferences)
